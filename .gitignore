@@ -1,0 +1,19 @@
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos pesados do modelo
+*.pth
+pulmai_model.pth
+
+# Checkpoints e logs
+.ipynb_checkpoints/
+*.log
